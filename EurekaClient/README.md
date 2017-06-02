@@ -15,6 +15,6 @@ eureka.instance.preferIpAddress=true
 eureka.instance.instance-id=${spring.cloud.client.ipAddress}:${server.port}
 
 参考：
-http://blog.didispace.com/springcloud1/
+http://blog.didispace.com/springcloud1/<br/>
 http://blog.csdn.net/minicto/article/details/53392649
 https://spring.io/guides/gs/service-registration-and-discovery/
