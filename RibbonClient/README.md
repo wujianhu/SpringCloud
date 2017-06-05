@@ -26,3 +26,6 @@ Greetings, Artaban!<br/>
 
 $ curl http://localhost:8888/hi?name=Orontes<br/>
 Salutations, Orontes!<br/>
+
+参考：<br/>
+https://spring.io/guides/gs/client-side-load-balancing/<br/>
